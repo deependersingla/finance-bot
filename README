@@ -1,0 +1,10 @@
+This project is trying to make finance api which can answer questions like:
+a) Market Cap of ABC company
+b) Divide PE ratio of ABC company by XYZ company
+c) Which stock is better on PE ratio today
+
+We will follow a iterative apprach towards questions. First we will try to answer simple question and then we will be solving tough questions. This is a fun project.
+
+Ryan and Deep are/will using the project on their slack.
+
+Thanks to screener.in for providing data for the project.
