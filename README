@@ -9,6 +9,11 @@ Ryan and Deep are/will using the project on their slack.
 
 Thanks to screener.in for providing data for the project.
 
+#endpoints
+http://localhost:5000/search?query=Price
+
 #commands
 source venv/bin/activate -- For activating venv
+
+
 
