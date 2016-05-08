@@ -8,3 +8,7 @@ We will follow a iterative apprach towards questions. First we will try to answe
 Ryan and Deep are/will using the project on their slack.
 
 Thanks to screener.in for providing data for the project.
+
+#commands
+source venv/bin/activate -- For activating venv
+
