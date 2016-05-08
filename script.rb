@@ -8,6 +8,8 @@ data = CSV.read("company_data.csv", headers: true)
 data.each do |item|
 	companies_name << item[0]
 end
+
+#not using this now as this generates a lot of data
 final_strings = []
 companies_name.each do |com|
 	ratio.each do |item|
@@ -19,4 +21,8 @@ companies_name.each do |com|
 end
 File.open("whitelabelled_words.txt", "w+") do |f|
   final_strings.each { |element| f.puts(element) }
+end
+
+File.open('companies.txt', 'w+') do |f|
+  companies_name.each {|element| f.puts(element)}
 end
