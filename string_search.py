@@ -7,7 +7,7 @@ import urllib
 
 #todo change lines to be a global constant and one time load
 def find_string(string):
-	with open('whitelabelled_words.txt') as f:
+	with open('ratio.txt') as f:
 		lines = f.read().splitlines()
 	ratio = process.extractOne(string, lines)[0]
 	with open('companies.txt') as f:
