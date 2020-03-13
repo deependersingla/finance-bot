@@ -102,7 +102,7 @@ pyserial==2.6
 python-apt===0.9.3.11build1
 python-dateutil==2.4.2
 python-debian==0.1.22
-python-gnupg==0.3.8
+python-gnupg==0.4.4
 python-ldap==2.4.10
 python-midi==0.2.4
 python-openid==2.2.5
