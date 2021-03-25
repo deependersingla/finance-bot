@@ -110,7 +110,7 @@ python-stdnum==1.0
 pytz==2015.4
 PyWebDAV==0.9.8
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==14.7.0
 qtconsole==4.1.0
 queuelib==1.4.2
