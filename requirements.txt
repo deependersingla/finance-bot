@@ -91,7 +91,7 @@ pycrypto==2.6.1
 pycups==1.9.72
 pydot==1.0.32
 pyglet==1.2.4
-Pygments==2.0.2
+Pygments==2.7.4
 pygobject==3.14.0
 pyinotify==0.9.5
 -e git://github.com/lisa-lab/pylearn2@fe9beee9b922c97bd8e5dd2ac023e1def229da31#egg=pylearn2
