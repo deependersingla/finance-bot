@@ -119,7 +119,7 @@ requests==2.8.1
 roman==2.0.0
 scikit-learn==0.15.1
 scipy==0.16.1
-Scrapy==1.0.3
+Scrapy==1.8.1
 scrapy-fake-useragent==0.0.1
 service-identity==1.0.0
 sessioninstaller==0.0.0
