@@ -39,7 +39,7 @@ IbPy==0
 idna==0.9
 imageio==1.5
 ipykernel==4.1.1
-ipython==4.0.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==4.0.2
 Jinja2==2.8
