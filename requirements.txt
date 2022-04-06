@@ -135,7 +135,7 @@ theano-lstm==0.0.15
 toolz==0.7.4
 tornado==4.2.1
 traitlets==4.0.0
-Twisted==15.4.0
+Twisted==22.2.0
 Twisted-Core==14.0.2
 Twisted-Web==14.0.2
 unittest2==0.5.1
