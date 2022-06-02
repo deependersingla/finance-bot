@@ -33,7 +33,7 @@ gdata==2.0.18
 gnureadline==6.3.3
 -e git+https://github.com/openai/gym@cd65b7ecd08ff9470a51a0be80675b3fa882ed7a#egg=gym
 h5py==2.5.0
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.9
 IbPy==0
 idna==0.9
