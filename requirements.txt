@@ -52,7 +52,7 @@ jupyter-core==4.0.6
 Lasagne==0.2.dev1
 lockfile==0.8
 lxml==3.4.2
-Mako==1.0.0
+Mako==1.2.2
 MarkupSafe==0.23
 matplotlib==1.4.3
 mistune==0.7.1
