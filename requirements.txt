@@ -80,7 +80,7 @@ pickleshare==0.5
 Pillow==3.0.0
 piston-mini-client==0.7.5
 progressbar2==3.3.0
-protobuf==2.6.1
+protobuf==3.18.3
 psutil==2.1.1
 psycopg2==2.6
 ptyprocess==0.5
